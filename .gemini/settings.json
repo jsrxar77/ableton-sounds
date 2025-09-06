@@ -5,6 +5,10 @@
     "AbletonMCP": {
       "command": "uvx",
       "args": ["ableton-mcp"]
+    },
+    "MidiMCP": {
+      "command": "node",
+      "args": ["/Users/javier/Projects/midi-mcp-server/build/index.js"]
     }
   }
 }
