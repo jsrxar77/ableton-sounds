@@ -6,9 +6,15 @@
       "command": "uvx",
       "args": ["ableton-mcp"]
     },
+    /*
     "MidiMCP": {
       "command": "node",
       "args": ["/Users/javier/Projects/midi-mcp-server/build/index.js"]
+    }
+    */
+    "MidiMCP": {
+      "command": "node",
+      "args": ["/Volumes/Macintosh H2/Users/javier/Projects/midi-mcp-server/build/index.js"]
     }
   }
 }
